@@ -92,6 +92,6 @@
    ```bash
    pip install pandas matplotlib seaborn scipy statsmodels
 
-3. Запустить Jypiter Notebook:
+3. Запустить Jupyter Notebook:
    ```bash
    jupyter notebook AB_test_marketing_fastfood.ipynb

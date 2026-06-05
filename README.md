@@ -4,6 +4,9 @@
 **GitHub:** [@AlexK-programming](https://github.com/AlexK-programming)  
 **Дата:** июнь 2026
 
+
+[![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange)](https://nbviewer.org/github/AlexK-programming/ab-test-marketing/blob/main/AB_test_marketing_fastfood.ipynb)
+
 ---
 
 ## 📌 О проекте

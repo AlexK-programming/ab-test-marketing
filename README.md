@@ -6,6 +6,7 @@
 
 
 [![View in nbviewer](https://img.shields.io/badge/View%20in-nbviewer-orange)](https://nbviewer.org/github/AlexK-programming/ab-test-marketing/blob/main/AB_test_marketing_fastfood.ipynb)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ---
 
